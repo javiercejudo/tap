@@ -1,6 +1,6 @@
 {
   "name": "@javiercejudo/tap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tap(x, y) == y(x)",
   "main": "src/index.js",
   "scripts": {
